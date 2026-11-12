@@ -5,4 +5,4 @@ Reddit: https://www.reddit.com/r/TheSecretZeldaWiki/
 V 3.0 is the latest version if you have a different version such as v1.0 or 1.5 I would suggest an update to the most recent one
 this a fan made html website inspired by the Zelda wiki you can download the file directly from the main branch in this repo
 please enjoy!
-it doesn't come ready but to enable the music make a folder named SZW and download the latest release of 
+it doesn't come ready but to enable the music make a folder named SZW and download the latest release of the website and the theme.mp3 file then put them in the SZW folder and open the html file inside you can know play the music
